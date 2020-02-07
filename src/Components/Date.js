@@ -6,7 +6,7 @@ const DateStyles = styled.h2 `
     font-size: .75rem;
     text-align: center;
     padding: 0px;
-    margin: 0px;
+    margin-bottom: 30px;
 `;
 
 const Date = (props) => {
